@@ -1,0 +1,12 @@
+﻿@using shopapp.webui.Models
+
+@model List<Category>
+
+<div class="list-group">
+	@foreach (var cat in Model)
+	{
+		<a href="#" class="list-group-item list-group-item-action">@cat.Name</a>
+
+
+	}
+</div>
