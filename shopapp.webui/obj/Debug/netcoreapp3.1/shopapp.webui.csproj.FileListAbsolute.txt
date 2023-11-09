@@ -60,6 +60,6 @@ C:\Users\Arda\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\
 C:\Users\Arda\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package-lock.json
 C:\Users\Arda\Desktop\shopapp\shopapp.webui\bin\Debug\netcoreapp3.1\package.json
 C:\Users\Arda\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Create.cshtml.g.cs
-C:\Users\Arda\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csprojAssemblyReference.cache
 C:\Users\Arda\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
 C:\Users\Arda\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\Razor\Views\Product\Edit.cshtml.g.cs
+C:\Users\Arda\Desktop\shopapp\shopapp.webui\obj\Debug\netcoreapp3.1\shopapp.webui.csproj.AssemblyReference.cache

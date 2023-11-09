@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\shopapp.data\\Abstract",
+    "\\shopapp.webui",
+    "\\shopapp.webui\\bin",
+    "\\shopapp.webui\\Controllers",
+    "\\shopapp.webui\\Models",
+    "\\shopapp.webui\\Views",
+    "\\shopapp.webui\\Views\\Shared\\Components",
+    "\\shopapp.webui\\WievModels"
+  ],
+  "SelectedNode": "\\shopapp.webui\\ViewComponent",
+  "PreviewInSolutionExplorer": false
+}
